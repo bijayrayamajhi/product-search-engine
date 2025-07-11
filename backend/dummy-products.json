@@ -1,0 +1,702 @@
+[
+  {
+    "name": "MSI Gaming Laptop 608",
+    "brand": "MSI",
+    "price": 646,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Apple Notebook 721",
+    "brand": "Apple",
+    "price": 520,
+    "ram": "4GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Dell Notebook 836",
+    "brand": "Dell",
+    "price": 2011,
+    "ram": "4GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "Acer Business Laptop 245",
+    "brand": "Acer",
+    "price": 1482,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Lenovo Ultrabook 219",
+    "brand": "Lenovo",
+    "price": 1413,
+    "ram": "4GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Dell Gaming Laptop 881",
+    "brand": "Dell",
+    "price": 1500,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Lenovo Gaming Laptop 143",
+    "brand": "Lenovo",
+    "price": 1254,
+    "ram": "32GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Dell Business Laptop 929",
+    "brand": "Dell",
+    "price": 823,
+    "ram": "16GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "HP Gaming Laptop 737",
+    "brand": "HP",
+    "price": 586,
+    "ram": "32GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Acer Laptop 748",
+    "brand": "Acer",
+    "price": 1984,
+    "ram": "4GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "MSI Ultrabook 859",
+    "brand": "MSI",
+    "price": 1761,
+    "ram": "32GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Acer Business Laptop 430",
+    "brand": "Acer",
+    "price": 2125,
+    "ram": "16GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "MSI Business Laptop 599",
+    "brand": "MSI",
+    "price": 769,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Samsung Gaming Laptop 346",
+    "brand": "Samsung",
+    "price": 2456,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Acer Gaming Laptop 563",
+    "brand": "Acer",
+    "price": 423,
+    "ram": "16GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Apple Laptop 563",
+    "brand": "Apple",
+    "price": 1629,
+    "ram": "16GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "Dell Business Laptop 547",
+    "brand": "Dell",
+    "price": 553,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Lenovo Ultrabook 974",
+    "brand": "Lenovo",
+    "price": 1389,
+    "ram": "16GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Apple Gaming Laptop 415",
+    "brand": "Apple",
+    "price": 1323,
+    "ram": "32GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Lenovo Business Laptop 480",
+    "brand": "Lenovo",
+    "price": 2271,
+    "ram": "8GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Dell Ultrabook 716",
+    "brand": "Dell",
+    "price": 977,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "MSI Laptop 569",
+    "brand": "MSI",
+    "price": 865,
+    "ram": "32GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Lenovo Laptop 567",
+    "brand": "Lenovo",
+    "price": 1457,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "HP Business Laptop 446",
+    "brand": "HP",
+    "price": 1093,
+    "ram": "4GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Dell Ultrabook 623",
+    "brand": "Dell",
+    "price": 2451,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Asus Laptop 953",
+    "brand": "Asus",
+    "price": 918,
+    "ram": "8GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "MSI Business Laptop 991",
+    "brand": "MSI",
+    "price": 1439,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 7"
+  },
+  {
+    "name": "Lenovo Business Laptop 909",
+    "brand": "Lenovo",
+    "price": 727,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Apple Business Laptop 828",
+    "brand": "Apple",
+    "price": 2460,
+    "ram": "4GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Dell Business Laptop 485",
+    "brand": "Dell",
+    "price": 797,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Lenovo Notebook 427",
+    "brand": "Lenovo",
+    "price": 1952,
+    "ram": "32GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Dell Business Laptop 587",
+    "brand": "Dell",
+    "price": 1739,
+    "ram": "4GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "HP Ultrabook 361",
+    "brand": "HP",
+    "price": 1771,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Dell Business Laptop 132",
+    "brand": "Dell",
+    "price": 601,
+    "ram": "32GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "HP Gaming Laptop 788",
+    "brand": "HP",
+    "price": 1895,
+    "ram": "8GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Apple Ultrabook 322",
+    "brand": "Apple",
+    "price": 1100,
+    "ram": "8GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Lenovo Ultrabook 199",
+    "brand": "Lenovo",
+    "price": 1086,
+    "ram": "4GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Lenovo Notebook 544",
+    "brand": "Lenovo",
+    "price": 994,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 7"
+  },
+  {
+    "name": "MSI Gaming Laptop 973",
+    "brand": "MSI",
+    "price": 1893,
+    "ram": "4GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "Acer Laptop 469",
+    "brand": "Acer",
+    "price": 1057,
+    "ram": "4GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Samsung Gaming Laptop 222",
+    "brand": "Samsung",
+    "price": 841,
+    "ram": "16GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "MSI Ultrabook 809",
+    "brand": "MSI",
+    "price": 1960,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Dell Ultrabook 972",
+    "brand": "Dell",
+    "price": 2383,
+    "ram": "4GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "MSI Business Laptop 498",
+    "brand": "MSI",
+    "price": 1146,
+    "ram": "8GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Apple Notebook 203",
+    "brand": "Apple",
+    "price": 475,
+    "ram": "4GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "MSI Notebook 789",
+    "brand": "MSI",
+    "price": 1303,
+    "ram": "16GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Dell Ultrabook 988",
+    "brand": "Dell",
+    "price": 1399,
+    "ram": "4GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Asus Business Laptop 587",
+    "brand": "Asus",
+    "price": 722,
+    "ram": "32GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Asus Gaming Laptop 536",
+    "brand": "Asus",
+    "price": 1808,
+    "ram": "4GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "Acer Ultrabook 331",
+    "brand": "Acer",
+    "price": 1806,
+    "ram": "32GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Dell Gaming Laptop 670",
+    "brand": "Dell",
+    "price": 714,
+    "ram": "16GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "Asus Notebook 190",
+    "brand": "Asus",
+    "price": 2215,
+    "ram": "4GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Samsung Notebook 587",
+    "brand": "Samsung",
+    "price": 1513,
+    "ram": "16GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Apple Laptop 627",
+    "brand": "Apple",
+    "price": 1698,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Lenovo Ultrabook 350",
+    "brand": "Lenovo",
+    "price": 853,
+    "ram": "4GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Lenovo Business Laptop 820",
+    "brand": "Lenovo",
+    "price": 1752,
+    "ram": "8GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Samsung Notebook 474",
+    "brand": "Samsung",
+    "price": 1541,
+    "ram": "16GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Acer Notebook 591",
+    "brand": "Acer",
+    "price": 1614,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Acer Notebook 940",
+    "brand": "Acer",
+    "price": 1150,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 7"
+  },
+  {
+    "name": "Acer Business Laptop 220",
+    "brand": "Acer",
+    "price": 1722,
+    "ram": "8GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "HP Gaming Laptop 541",
+    "brand": "HP",
+    "price": 664,
+    "ram": "8GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "HP Gaming Laptop 495",
+    "brand": "HP",
+    "price": 1288,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Samsung Ultrabook 852",
+    "brand": "Samsung",
+    "price": 1457,
+    "ram": "4GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Dell Gaming Laptop 150",
+    "brand": "Dell",
+    "price": 721,
+    "ram": "16GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Asus Ultrabook 720",
+    "brand": "Asus",
+    "price": 1293,
+    "ram": "32GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "Dell Notebook 768",
+    "brand": "Dell",
+    "price": 408,
+    "ram": "4GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Samsung Ultrabook 780",
+    "brand": "Samsung",
+    "price": 1469,
+    "ram": "16GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Asus Notebook 266",
+    "brand": "Asus",
+    "price": 500,
+    "ram": "16GB",
+    "processor": "AMD Ryzen 7"
+  },
+  {
+    "name": "Lenovo Laptop 698",
+    "brand": "Lenovo",
+    "price": 1319,
+    "ram": "16GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "MSI Ultrabook 290",
+    "brand": "MSI",
+    "price": 1139,
+    "ram": "32GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Apple Ultrabook 978",
+    "brand": "Apple",
+    "price": 1145,
+    "ram": "16GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Acer Laptop 147",
+    "brand": "Acer",
+    "price": 645,
+    "ram": "4GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Apple Gaming Laptop 197",
+    "brand": "Apple",
+    "price": 1356,
+    "ram": "8GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "Apple Ultrabook 963",
+    "brand": "Apple",
+    "price": 2473,
+    "ram": "4GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Apple Gaming Laptop 568",
+    "brand": "Apple",
+    "price": 477,
+    "ram": "8GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Asus Laptop 818",
+    "brand": "Asus",
+    "price": 506,
+    "ram": "16GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Lenovo Laptop 885",
+    "brand": "Lenovo",
+    "price": 546,
+    "ram": "8GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Apple Laptop 402",
+    "brand": "Apple",
+    "price": 1592,
+    "ram": "4GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Apple Business Laptop 449",
+    "brand": "Apple",
+    "price": 2431,
+    "ram": "4GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Lenovo Gaming Laptop 315",
+    "brand": "Lenovo",
+    "price": 2237,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Apple Laptop 612",
+    "brand": "Apple",
+    "price": 1099,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 7"
+  },
+  {
+    "name": "Apple Business Laptop 952",
+    "brand": "Apple",
+    "price": 1906,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 7"
+  },
+  {
+    "name": "Apple Business Laptop 382",
+    "brand": "Apple",
+    "price": 726,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Asus Laptop 933",
+    "brand": "Asus",
+    "price": 2034,
+    "ram": "32GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Lenovo Business Laptop 148",
+    "brand": "Lenovo",
+    "price": 1963,
+    "ram": "4GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Apple Ultrabook 140",
+    "brand": "Apple",
+    "price": 911,
+    "ram": "8GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Lenovo Ultrabook 909",
+    "brand": "Lenovo",
+    "price": 408,
+    "ram": "32GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "MSI Business Laptop 810",
+    "brand": "MSI",
+    "price": 1213,
+    "ram": "16GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "HP Laptop 846",
+    "brand": "HP",
+    "price": 2292,
+    "ram": "16GB",
+    "processor": "Intel i5"
+  },
+  {
+    "name": "HP Gaming Laptop 110",
+    "brand": "HP",
+    "price": 1863,
+    "ram": "16GB",
+    "processor": "AMD Ryzen 7"
+  },
+  {
+    "name": "Acer Gaming Laptop 527",
+    "brand": "Acer",
+    "price": 1572,
+    "ram": "4GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Samsung Business Laptop 153",
+    "brand": "Samsung",
+    "price": 1689,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "Lenovo Ultrabook 772",
+    "brand": "Lenovo",
+    "price": 1609,
+    "ram": "8GB",
+    "processor": "AMD Ryzen 7"
+  },
+  {
+    "name": "Dell Notebook 941",
+    "brand": "Dell",
+    "price": 1154,
+    "ram": "16GB",
+    "processor": "Intel i3"
+  },
+  {
+    "name": "Samsung Notebook 794",
+    "brand": "Samsung",
+    "price": 1879,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 5"
+  },
+  {
+    "name": "Apple Gaming Laptop 474",
+    "brand": "Apple",
+    "price": 1017,
+    "ram": "4GB",
+    "processor": "Intel i7"
+  },
+  {
+    "name": "Dell Gaming Laptop 703",
+    "brand": "Dell",
+    "price": 918,
+    "ram": "32GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "HP Gaming Laptop 998",
+    "brand": "HP",
+    "price": 423,
+    "ram": "16GB",
+    "processor": "AMD Ryzen 3"
+  },
+  {
+    "name": "MSI Laptop 810",
+    "brand": "MSI",
+    "price": 1822,
+    "ram": "32GB",
+    "processor": "Intel i9"
+  },
+  {
+    "name": "Dell Laptop 861",
+    "brand": "Dell",
+    "price": 1498,
+    "ram": "4GB",
+    "processor": "Intel i3"
+  }
+]
